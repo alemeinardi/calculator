@@ -1,4 +1,4 @@
-# Calculator 🏨
+# Calculator 🔢
 
 A basic calculator web application to understand the concepts of react
 
